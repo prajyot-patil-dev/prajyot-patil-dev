@@ -10,19 +10,18 @@ Currently working on AI-powered Insider Threat Detection System.
 ---
 
 ## 🛠 Tech Stack
-Java • Spring Boot • React • FastAPI • MySQL • AI/ML
+Java • Spring Boot • React • FastAPI • MySQL • AI/ML • Supabase
 
 ---
 
 ## 🔐 Featured Project
 
-### Insider Threat Detection System
+## Insider Threat Detection System
 AI-driven behavioral monitoring system designed to detect suspicious activities using risk scoring and escalation models.
 
 ### Inventory & Billing System
 Java Swing-based full business management dashboard with role-based access.
 
----
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajyot001&theme=github_dark)
 
 
