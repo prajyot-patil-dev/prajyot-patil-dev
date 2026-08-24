@@ -122,12 +122,12 @@ A desktop-based business management system built using **Java Swing and MySQL**.
 <p align="center">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajyot001&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajyot-patil-dev&theme=github_dark"
   height="180"
 />
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajyot001&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajyot-patil-dev&theme=github_dark"
   height="180"
 />
 
@@ -136,7 +136,7 @@ A desktop-based business management system built using **Java Swing and MySQL**.
 <p align="center">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajyot001&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajyot-patil-dev&theme=github_dark"
 />
 
 </p>
@@ -148,7 +148,7 @@ A desktop-based business management system built using **Java Swing and MySQL**.
 <p align="center">
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=prajyot001&theme=github-dark"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=prajyot-patil-dev&theme=github-dark"
 />
 
 </p>
