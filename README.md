@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajyot-patil-prajyot001/">
+  <a href="https://www.linkedin.com/in/prajyot-patil-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="https://github.com/prajyot001">
+  <a href="https://github.com/prajyot-patil-dev">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
   </a>
 </p>
