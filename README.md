@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/prajyot001/prajyotpatil-dev/main/Black Minimalist Corporate Business Personal Profile LinkedIn Banner.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com//prajyot-patil-dev/main/Black Minimalist Corporate Business Personal Profile LinkedIn Banner.jpg" width="100%" />
 <p align="center">
   <b>Engineering Intelligent & Secure Digital Systems</b>
 </p>
