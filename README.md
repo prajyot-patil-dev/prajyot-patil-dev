@@ -160,7 +160,7 @@ A desktop-based business management system built using **Java Swing and MySQL**.
 <p align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/prajyot001/prajyot001/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/prajyot-patil-dev/prajyot-patil-dev/output/github-contribution-grid-snake.svg"
   alt="Snake animation"
 />
 
