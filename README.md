@@ -142,19 +142,6 @@ A desktop-based business management system built using **Java Swing and MySQL**.
 </p>
 
 ---
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=prajyot-patil-dev&theme=github-dark"
-/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
