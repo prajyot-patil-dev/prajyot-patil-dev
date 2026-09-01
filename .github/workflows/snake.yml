@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: prajyot001
+          github_user_name: prajyot-patil-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
 
